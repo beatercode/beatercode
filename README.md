@@ -1,15 +1,18 @@
-### Hi there 👋
-
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/omBratteng">
-    <img src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter" />
+  <a href="https://www.instagram.com/abhisheknaiidu/">
+    <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn" />
+  <a href="https://discord.gg/XTW52Kt">
+    <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
-
+  <a href="https://twitter.com/abhisheknaiidu">
+    <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+    <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img width="256" align="right" src="https://github.com/beatercode/beatercode/blob/main/devcard.svg"/>
   </a>
@@ -17,27 +20,11 @@
 
 <!--a href="https://app.daily.dev/Beater"><img src="https://github.com/beatercode/beatercode/blob/main/devcard.svg" width="400" alt="Beater's Dev Card"/></a-->
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Minoi Luca](https://www.linkedin.com/in/luca-minoi-3014b5142/), a passionate self-taught full stack web developer and a freelance software engineer from Italy. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+Since last 4 yars im also a Web 3.0 enthusiast and maintainer. I've been workend in a lot of crypto web 3 project, Ethereum EVM, Solan Ecosystem, Tezos and more. I'm currently collaborating with a [Discord Server](https://discord.gg/odaclam) with an amazing cummunity for learning even more.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
