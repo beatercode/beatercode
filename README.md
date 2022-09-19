@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img width="256" align="right" src="https://github.com/beatercode/beatercode/blob/main/devcard.sv"/>
+    <img width="256" align="right" src="https://github.com/beatercode/beatercode/blob/main/devcard.svg"/>
   </a>
 </div>
 
