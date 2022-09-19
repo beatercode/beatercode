@@ -76,6 +76,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <div style="display: flex; flex-direction: row;">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="240" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="224" />
   <img src="https://github-readme-stats.vercel.app/api?username=beatercode&show_icons=true&theme=radical" alt="beatercode" />
 </di>
