@@ -48,12 +48,7 @@ Since last 4 yars im also a Web 3.0 enthusiast and maintainer. I've been workend
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   19 hrs 9 mins   ████████████████████▒░░░░   81.57 %
-JavaScript   4 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
