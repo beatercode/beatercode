@@ -7,7 +7,7 @@
   <a href="https://discord.gg/odacla">
     <img align="left" alt="ODA Clan Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
-  <a href="https://twitter.com/abhisheknaiidu">
+  <a href="https://twitter.com/beaterfit_luca">
     <img align="left" alt="Beater's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/luca-minoi-3014b5142/">
