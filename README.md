@@ -47,7 +47,7 @@ Since last 4 years im also a Web 3.0 enthusiast and maintainer. I've been worken
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
