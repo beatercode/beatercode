@@ -10,7 +10,7 @@
   <a href="https://twitter.com/beaterfit_luca">
     <img align="left" alt="Beater's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/luca-minoi-3014b5142/">
+  <a href="https://www.linkedin.com/in/luca-minoi/">
     <img align="left" alt="Beater's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://api.daily.dev/get?r=beatercode" target="_blank">
@@ -18,13 +18,13 @@
   </a>
 </div>
 
-<!--a href="https://app.daily.dev/Beater"><img src="https://github.com/beatercode/beatercode/blob/main/devcard.svg" width="400" alt="Beater's Dev Card"/></a-->
+<a href="https://app.daily.dev/beater"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=default&r=lp5" width="356" alt="Luca's Dev Card"/></a>
 
 <br /><br />
 
-hi, i'm [Minoi Luca](https://www.linkedin.com/in/luca-minoi-3014b5142/), a passionate self-taught full stack web developer and a freelance software engineer from Italy. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Minoi Luca](https://www.linkedin.com/in/luca-minoi/)), a passionate self-taught full stack web developer and a freelance software engineer from Italy. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-Since last 4 years im also a Web 3.0 enthusiast and maintainer. I've been workend in a lot of crypto web 3 project, Ethereum EVM, Solan Ecosystem, Tezos and more. I'm currently collaborating with a [Discord Server](https://discord.gg/odaclam) with an amazing cummunity for learning even more.
+Since last 4 years im also a Web 3.0 enthusiast and maintainer. I've been workend in a lot of crypto web 3 project, Ethereum EVM, Solan Ecosystem, Tezos and more. I'm currently collaborating with a [Discord Server](https://discord.gg/odacla) with an amazing cummunity for learning even more.
   
 - 💼 any freelance work? do reach, [email](mailto:minoi.luca@gmail.com)
 - 💬 ask me about anything, i am happy to help;
