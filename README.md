@@ -18,8 +18,6 @@
   </a>
 </div>
 
-<a href="https://app.daily.dev/beater"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=default&r=lp5" width="356" alt="Luca's Dev Card"/></a>
-
 <br /><br />
 
 hi, i'm [Minoi Luca](https://www.linkedin.com/in/luca-minoi/)), a passionate self-taught full stack web developer and a freelance software engineer from Italy. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
