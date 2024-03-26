@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/luca-minoi/">
     <img align="left" alt="Beater's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://app.daily.dev/beatercode"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=default&r=861" width="356" alt="Luca's Dev Card"/></a>
+  <a href="https://app.daily.dev/beatercode"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=wide&r=tjj" width="652" alt="Luca's Dev Card"/></a>
 </div>
 
 <br /><br />
