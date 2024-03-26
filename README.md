@@ -1,6 +1,12 @@
 # Hi there 👋
 
 <div align="center">
+  <a href="https://app.daily.dev/beatercode"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=wide&r=tjj" width="652" alt="Luca's Dev Card"/></a>
+</div>
+
+<br /><br />
+
+<div align="center">
   <a href="https://www.instagram.com/bfit_luca_/">
     <img align="left" alt="Abhishek's Instagram" width="40px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/40px/instagram.png" />
   </a>
@@ -9,15 +15,9 @@
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://app.daily.dev/beatercode"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=wide&r=tjj" width="652" alt="Luca's Dev Card"/></a>
-</div>
-
 <br /><br />
 
-hi, i'm [Minoi Luca](https://www.linkedin.com/in/luca-minoi/)), a passionate self-taught full stack web developer and a freelance software engineer from Italy.
+Hi, I'm [Minoi Luca](https://www.linkedin.com/in/lucaminoi/)), a passionate self-taught full stack web developer and a freelance software engineer from Italy.
 
 Not Just a Developer: A Problem Solver and Tech Enthusiast
 As a software professional, I thrive on solving complex problems and optimizing solutions. My passion lies in finding the right path to tackle software challenges. Staying abreast of cutting-edge technologies is my strength, and I leverage this knowledge to propose innovative solutions to private clients.
@@ -33,14 +33,14 @@ I’ve been actively involved in the Web3 space since its inception, initially w
 1 DAO: A gamified startup helper.
 
 👨‍💻 Technical Skills:
-Smart Contract: Solidity: [3 years]
+Smart Contract: Solidity: [4 years]
 Frontend Stack: React, Vue, Next.js, Express, Node.js [3 years]
 Backend Languages: JavaEE, JS, Python [7 years]
 Web Technologies: HTML, CSS, JavaScript, PHP, and C/C++ [7 years]
 
 - 💼 any freelance work? do reach, [email](mailto:minoi.luca@gmail.com)
 - 💬 ask me about anything, i am happy to help;
-- 
+
 Feel free to connect — I’m always up for exciting collaborations and new challenges! 🚀👋
 
 <br />
