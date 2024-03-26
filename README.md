@@ -13,9 +13,7 @@
   <a href="https://www.linkedin.com/in/luca-minoi/">
     <img align="left" alt="Beater's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://api.daily.dev/get?r=beatercode" target="_blank">
-    <img width="256" align="right" src="https://github.com/beatercode/beatercode/blob/main/devcard.svg"/>
-  </a>
+  <a href="https://app.daily.dev/beatercode"><img src="./devcard.png" width="356" alt="Luca's Dev Card"/></a>
 </div>
 
 <br /><br />
