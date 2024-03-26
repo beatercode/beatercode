@@ -2,16 +2,10 @@
 
 <div align="left">
   <a href="https://www.instagram.com/bfit_luca_/">
-    <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-  <a href="https://discord.gg/odacla">
-    <img align="left" alt="ODA Clan Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  <a href="https://twitter.com/beaterfit_luca">
-    <img align="left" alt="Beater's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img align="left" alt="Abhishek's Instagram" width="22px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/40px/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/luca-minoi/">
-    <img align="left" alt="Beater's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Beater's Linkedin" width="22px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/40px/linkedin.png" />
   </a>
   <a href="https://app.daily.dev/beatercode"><img src="https://api.daily.dev/devcards/v2/quulOKacucwrkDVqdm0c3.png?type=wide&r=tjj" width="652" alt="Luca's Dev Card"/></a>
 </div>
