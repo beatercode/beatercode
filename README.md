@@ -33,10 +33,10 @@ I’ve been actively involved in the Web3 space since its inception, initially w
 1 DAO: A gamified startup helper.
 
 👨‍💻 Technical Skills:
-Smart Contract: Solidity: [4 years]
-Frontend Stack: React, Vue, Next.js, Express, Node.js [3 years]
-Backend Languages: JavaEE, JS, Python [7 years]
-Web Technologies: HTML, CSS, JavaScript, PHP, and C/C++ [7 years]
+Smart Contract: Solidity: [5 years]
+Frontend Stack: React, Vue, Next.js, Express, Node.js [5 years]
+Backend Languages: JavaEE, JS, Python [8 years]
+Web Technologies: HTML, CSS, JavaScript, PHP, and C/C++ [8 years]
 
 - 💼 any freelance work? do reach, [email](mailto:minoi.luca@gmail.com)
 - 💬 ask me about anything, i am happy to help;
