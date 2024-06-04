@@ -17,7 +17,7 @@
 
 <br /><br />
 
-Hi, I'm [Minoi Luca](https://www.linkedin.com/in/lucaminoi/)), a passionate self-taught full stack web developer and a freelance software engineer from Italy.
+Hi, I'm [Minoi Luca](https://www.linkedin.com/in/lucaminoi/), a passionate self-taught full stack web developer and a freelance software engineer from Italy.
 
 Not Just a Developer: A Problem Solver and Tech Enthusiast
 As a software professional, I thrive on solving complex problems and optimizing solutions. My passion lies in finding the right path to tackle software challenges. Staying abreast of cutting-edge technologies is my strength, and I leverage this knowledge to propose innovative solutions to private clients.
