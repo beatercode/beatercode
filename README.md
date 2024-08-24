@@ -17,74 +17,66 @@
 
 <br /><br />
 
-Hi, I'm [Minoi Luca](https://www.linkedin.com/in/lucaminoi/), a passionate self-taught full stack web developer and a freelance software engineer from Italy.
+## Hey, I am Luca Minoi
 
-Not Just a Developer: A Problem Solver and Tech Enthusiast
-As a software professional, I thrive on solving complex problems and optimizing solutions. My passion lies in finding the right path to tackle software challenges. Staying abreast of cutting-edge technologies is my strength, and I leverage this knowledge to propose innovative solutions to private clients.
+AI-enhanced Tech Strategist | 100M$ Volume DEX | Blockchain Delivery Lead @21BJ | Shaping the Future of Decentralization
 
-🚀 Recent Work: https://alienbase.xyz/
+<div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=beatercode&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=beatercode&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=beatercode&show_icons=true" height="400px" width="100%" />
+</picture>
+<div style="width: 50%; padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
+    <h3 style="color: #9F9F9F; margin: 0;">Visit website</h3>
+    <a href="https://www.linkedin.com/in/lucaminoi/" target="_blank" class="big-font" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://www.linkedin.com/in/lucaminoi/</a>
+</div>
+</div>
 
-🌐 Web3 Pioneer: 
-I’ve been actively involved in the Web3 space since its inception, initially working on private projects. I’m always open to fresh ideas, so feel free to reach out!
+[![Have a look at beatercode Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.me/theshiveshnetwork)
 
-🛥️ Projects I’ve Shipped:
-5 NFT Projects: Leveraging Ethereum VM, Astar, and Aptos.
-7 DeFi Projects: Built on the Ethereum VM.
-1 DAO: A gamified startup helper.
+## 💻 About me
 
-👨‍💻 Technical Skills:
-Smart Contract: Solidity: [5 years]
-Frontend Stack: React, Vue, Next.js, Express, Node.js [5 years]
-Backend Languages: JavaEE, JS, Python [8 years]
-Web Technologies: HTML, CSS, JavaScript, PHP, and C/C++ [8 years]
+##  👋 Welcome to My Github Profile! 👋
 
-- 💼 any freelance work? do reach, [email](mailto:minoi.luca@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+I'm a passionate developer always eager to learn and share my knowledge. Here you'll find some of my projects:
 
-Feel free to connect — I’m always up for exciting collaborations and new challenges! 🚀👋
+*  🚀 **[Project Name 1]** - [Short description of project 1]
+*  ✨ **[Project Name 2]** - [Short description of project 2]
+*  🤖 **[Project Name 3]** - [Short description of project 3]
 
-<br />
+Feel free to explore my repositories, and don't hesitate to connect! 🤝
 
-**languages and tools:**
+**Let's build something amazing together!** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+## 👨‍💻 Languages
 
-```txt
-No activity tracked
-```
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatercode&layout=compact&theme=vision-friendly-dark" alt="top-languages" />
+</div>
 
-<!--END_SECTION:waka-->
 
-<!--
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beatercode&theme=dark_lover" alt="github-trophies" />
+</div>
 
-<a href="https://www.buymeacoffee.com/beatercode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## 🔥 Streak
 
--->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-📈 my github stats
-
-<div style="display: flex; flex-direction: row;">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="224" />
-  <img src="https://github-readme-stats.vercel.app/api?username=beatercode&show_icons=true&theme=radical" alt="beatercode" />
-</di>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<img src="https://streak-stats.demolab.com?user=TheShiveshNetwork&theme=highcontrast" alt="github-streak" />
+<div style="width: calc(50% - 40px); padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
+    <h3 style="color: #9F9F9F; margin: 0;">Support</h3>
+    <a href="" target="_blank" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;"></a>
+</div>
+</div>
